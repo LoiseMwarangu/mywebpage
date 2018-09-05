@@ -1,0 +1,21 @@
+h1 , h2{
+  color:blue;
+  font-style: italic;
+  text-align: center;
+}
+p{
+  font-family: sans-serif , Ti
+}
+ul{
+  line-height: 40px;
+}
+body{
+  background-color:skyblue;
+}
+
+strong{
+  font-style: italic;
+}
+em{
+  font-size: 40px;
+}
